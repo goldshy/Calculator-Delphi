@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.998,D:\Delphi_Projekty\Kalkulacka2\kalkulacka2_U.dfm=C:\Users\golds\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.018,=C:\Users\golds\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.420,D:\Delphi_Projekty\Kalkulačkatest\Kalkulačkatest_U.pas=D:\Delphi_Projekty\Kalkulacka3 - kopie\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.420,D:\Delphi_Projekty\Kalkulačkatest\Kalkulačkatest_U.dfm=D:\Delphi_Projekty\Kalkulacka3 - kopie\Unit1.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.144,D:\Delphi_Projekty\Kalkulacka2\Kalkulacka2_P.dproj=C:\Users\golds\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.984,=D:\Delphi_Projekty\Kalkulacka3 - kopie\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.998,D:\Delphi_Projekty\Kalkulacka2\kalkulacka2_U.pas=C:\Users\golds\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+  </Transactions>
+</BorlandProject>
